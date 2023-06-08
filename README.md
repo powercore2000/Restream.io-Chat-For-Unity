@@ -20,4 +20,8 @@ Example configuration:
   "clientId": "YOUR_CLIENT_ID",
   "clientSecret": "YOUR_CLIENT_SECRET"
 }
+```
+## Resources
+For information on how to get your credentials from the restream API head to their [developer portal](https://developers.restream.io/) and read their documentation. 
 
+Note: Something I struggled with was the Capture the code stage. A quick fix i did was set the redirect URI to `http://localhost/`  
